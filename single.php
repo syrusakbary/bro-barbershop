@@ -27,7 +27,7 @@ get_header();
 
 		endwhile; // End of the loop.
 		?>
-	<b>HELLO</b>
+	<b>HELLO TWO</b>
     </main><!-- #main -->
 
 <?php
